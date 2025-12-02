@@ -7,11 +7,11 @@ Thành viên nhóm:
 
 --Lại Xuân Biển - BIT240041
 
---Nguyễn Thái Hà - BIT
+--Nguyễn Thái Hà - BIT242377
 
---Tạ Gia Bảo - BIT
+--Tạ Gia Bảo - BIT247887
 
---Vũ Tùng Dương - BIT
+--Vũ Tùng Dương - BIT242338
 
 Quắ trình thực hiện đồ án:
 
